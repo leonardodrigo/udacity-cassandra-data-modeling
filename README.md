@@ -17,3 +17,4 @@ In event_data folder we have the application logs in CSV files, registering even
 ## Modeling
 
 In order to pull especific data from CSV files respecting Cassandra's arquitechture and functionalities, we've created three different tables. Below you can check the model with Chebotko diagram.
+![Entity Relationship Diagram (4)](https://user-images.githubusercontent.com/49285727/199594184-c23db27c-8c5c-484b-aede-003cbc8dd1f0.jpg)
